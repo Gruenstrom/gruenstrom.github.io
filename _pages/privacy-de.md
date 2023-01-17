@@ -17,4 +17,4 @@ In der App Grünstrom Vorhersage werden keine persönlichen Daten gesammelt, ges
 
 # Kommunikation
 
-Die App kommuniziert mit einem Server bei github.com via https um die Wind- und Solarenergie-Daten zu laden. Dabei wird möglicherweise die IP-Adresse des Nutzers an [github.com](https://github.com) übertragen. Hierbei gilt die [Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement) von GitHub.
+Die App kommuniziert mit [github.com](https://github.com) um die Wind- und Solarenergie-Daten zu laden. Dabei wird möglicherweise die IP-Adresse des Nutzers an [github.com](https://github.com) übertragen. Hierbei gilt die [Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement) von GitHub.
